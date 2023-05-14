@@ -1,0 +1,1 @@
+/Users/mariesnlk/Documents/GitHub/near-sc-course/project_16/counter-rust/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /Users/mariesnlk/Documents/GitHub/near-sc-course/project_16/counter-rust/contract/src/lib.rs
